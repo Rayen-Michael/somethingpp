@@ -13,7 +13,7 @@ abstract class ColorValues {
 
   static const Color darkSubtitleTextColor = Color.fromARGB(255, 160, 160, 160);
   static const Color darkerGrayColor = Color.fromARGB(255, 80, 80, 80);
-  static const Color errorColor = Color.fromARGB(255, 244, 67, 54);
+  static const Color errorColor = Color.fromARGB(1, 20, 81, 207);
   static const Color grayColor = Color.fromARGB(255, 180, 180, 180);
   static const Color lightBgColor = Color.fromARGB(255, 236, 236, 236);
   static const Color lightBodyTextColor = Color.fromARGB(255, 30, 30, 30);
